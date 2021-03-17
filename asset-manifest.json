@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/locust-tracking/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/locust-tracking/static/js/main.dc1219ef.chunk.js",
+    "main.js.map": "/locust-tracking/static/js/main.dc1219ef.chunk.js.map",
+    "runtime-main.js": "/locust-tracking/static/js/runtime-main.b085bf31.js",
+    "runtime-main.js.map": "/locust-tracking/static/js/runtime-main.b085bf31.js.map",
+    "static/js/2.ba02c2f9.chunk.js": "/locust-tracking/static/js/2.ba02c2f9.chunk.js",
+    "static/js/2.ba02c2f9.chunk.js.map": "/locust-tracking/static/js/2.ba02c2f9.chunk.js.map",
+    "static/js/3.17888295.chunk.js": "/locust-tracking/static/js/3.17888295.chunk.js",
+    "static/js/3.17888295.chunk.js.map": "/locust-tracking/static/js/3.17888295.chunk.js.map",
+    "index.html": "/locust-tracking/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/locust-tracking/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ba02c2f9.chunk.js.LICENSE.txt": "/locust-tracking/static/js/2.ba02c2f9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/locust-tracking/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b085bf31.js",
+    "static/js/2.ba02c2f9.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.dc1219ef.chunk.js"
+  ]
+}
