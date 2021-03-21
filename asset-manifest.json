@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "http://localhost:3000/locust-tracking/static/js/main.0e7cca7d.chunk.js",
-    "main.js.map": "http://localhost:3000/locust-tracking/static/js/main.0e7cca7d.chunk.js.map",
+    "main.js": "http://localhost:3000/locust-tracking/static/js/main.df8aad6f.chunk.js",
+    "main.js.map": "http://localhost:3000/locust-tracking/static/js/main.df8aad6f.chunk.js.map",
     "runtime-main.js": "http://localhost:3000/locust-tracking/static/js/runtime-main.9d608fb5.js",
     "runtime-main.js.map": "http://localhost:3000/locust-tracking/static/js/runtime-main.9d608fb5.js.map",
-    "static/js/2.be4bcf65.chunk.js": "http://localhost:3000/locust-tracking/static/js/2.be4bcf65.chunk.js",
-    "static/js/2.be4bcf65.chunk.js.map": "http://localhost:3000/locust-tracking/static/js/2.be4bcf65.chunk.js.map",
+    "static/js/2.fed52460.chunk.js": "http://localhost:3000/locust-tracking/static/js/2.fed52460.chunk.js",
+    "static/js/2.fed52460.chunk.js.map": "http://localhost:3000/locust-tracking/static/js/2.fed52460.chunk.js.map",
     "index.html": "http://localhost:3000/locust-tracking/index.html",
-    "static/js/2.be4bcf65.chunk.js.LICENSE.txt": "http://localhost:3000/locust-tracking/static/js/2.be4bcf65.chunk.js.LICENSE.txt",
+    "static/js/2.fed52460.chunk.js.LICENSE.txt": "http://localhost:3000/locust-tracking/static/js/2.fed52460.chunk.js.LICENSE.txt",
     "static/media/locust.ab5406e6.webp": "http://localhost:3000/locust-tracking/static/media/locust.ab5406e6.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.9d608fb5.js",
-    "static/js/2.be4bcf65.chunk.js",
-    "static/js/main.0e7cca7d.chunk.js"
+    "static/js/2.fed52460.chunk.js",
+    "static/js/main.df8aad6f.chunk.js"
   ]
 }
