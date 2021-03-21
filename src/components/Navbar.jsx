@@ -5,17 +5,39 @@ import ROUTES from "constants/routes";
 
 const NavWrapper = styled.div`
 	display: flex;
+	justify-content: space-between;
+	padding: 2rem;
+	height: 80px;
+	align-items: center;
 `;
-const NavBranding = styled(NavLink)``;
-const NavbarLink = styled(NavLink)``;
-const MenuWrapper = styled.div``;
+
+const NavBrandingWrapper = styled.div`
+	flex: 0.9;
+`;
+
+const NavBranding = styled(NavLink)`
+	text-decoration: none;
+	color: #000;
+`;
+const NavbarLink = styled(NavLink)`
+	text-decoration: none;
+	color: #000;
+`;
+const MenuWrapper = styled.div`
+	flex: 0.1;
+	display: flex;
+	justify-content: space-between;
+`;
 
 const Navbar = () => {
 	const { HOME, MAP, TEAM } = ROUTES;
 	return (
 		<>
 			<NavWrapper>
-				<NavBranding to={HOME}>LocustTracking</NavBranding>
+				<NavBrandingWrapper>
+					<NavBranding to={HOME}>LocustTracking</NavBranding>
+				</NavBrandingWrapper>
+
 				<MenuWrapper>
 					<NavbarLink to={MAP}>Map</NavbarLink>
 					<NavbarLink to={TEAM}>Team</NavbarLink>
