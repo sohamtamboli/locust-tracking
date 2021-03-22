@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "http://localhost:3000/locust-tracking/static/js/main.07691a28.chunk.js",
-    "main.js.map": "http://localhost:3000/locust-tracking/static/js/main.07691a28.chunk.js.map",
-    "runtime-main.js": "http://localhost:3000/locust-tracking/static/js/runtime-main.9d608fb5.js",
-    "runtime-main.js.map": "http://localhost:3000/locust-tracking/static/js/runtime-main.9d608fb5.js.map",
-    "static/js/2.fed52460.chunk.js": "http://localhost:3000/locust-tracking/static/js/2.fed52460.chunk.js",
-    "static/js/2.fed52460.chunk.js.map": "http://localhost:3000/locust-tracking/static/js/2.fed52460.chunk.js.map",
-    "index.html": "http://localhost:3000/locust-tracking/index.html",
-    "static/js/2.fed52460.chunk.js.LICENSE.txt": "http://localhost:3000/locust-tracking/static/js/2.fed52460.chunk.js.LICENSE.txt",
-    "static/media/locust.ab5406e6.webp": "http://localhost:3000/locust-tracking/static/media/locust.ab5406e6.webp"
+    "main.js": "http://localhost:3000/static/js/main.07691a28.chunk.js",
+    "main.js.map": "http://localhost:3000/static/js/main.07691a28.chunk.js.map",
+    "runtime-main.js": "http://localhost:3000/static/js/runtime-main.bf4eecad.js",
+    "runtime-main.js.map": "http://localhost:3000/static/js/runtime-main.bf4eecad.js.map",
+    "static/js/2.0ef52923.chunk.js": "http://localhost:3000/static/js/2.0ef52923.chunk.js",
+    "static/js/2.0ef52923.chunk.js.map": "http://localhost:3000/static/js/2.0ef52923.chunk.js.map",
+    "index.html": "http://localhost:3000/index.html",
+    "static/js/2.0ef52923.chunk.js.LICENSE.txt": "http://localhost:3000/static/js/2.0ef52923.chunk.js.LICENSE.txt",
+    "static/media/locust.ab5406e6.webp": "http://localhost:3000/static/media/locust.ab5406e6.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d608fb5.js",
-    "static/js/2.fed52460.chunk.js",
+    "static/js/runtime-main.bf4eecad.js",
+    "static/js/2.0ef52923.chunk.js",
     "static/js/main.07691a28.chunk.js"
   ]
 }
