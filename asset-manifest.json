@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.07691a28.chunk.js",
-    "main.js.map": "/static/js/main.07691a28.chunk.js.map",
+    "main.js": "/static/js/main.48a64aac.chunk.js",
+    "main.js.map": "/static/js/main.48a64aac.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.61ab2b8c.js",
     "runtime-main.js.map": "/static/js/runtime-main.61ab2b8c.js.map",
-    "static/js/2.720826cc.chunk.js": "/static/js/2.720826cc.chunk.js",
-    "static/js/2.720826cc.chunk.js.map": "/static/js/2.720826cc.chunk.js.map",
+    "static/js/2.c20db3a2.chunk.js": "/static/js/2.c20db3a2.chunk.js",
+    "static/js/2.c20db3a2.chunk.js.map": "/static/js/2.c20db3a2.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.720826cc.chunk.js.LICENSE.txt": "/static/js/2.720826cc.chunk.js.LICENSE.txt",
-    "static/media/locust.ab5406e6.webp": "/static/media/locust.ab5406e6.webp"
+    "static/js/2.c20db3a2.chunk.js.LICENSE.txt": "/static/js/2.c20db3a2.chunk.js.LICENSE.txt",
+    "static/media/locust_bg.cf38eda4.webp": "/static/media/locust_bg.cf38eda4.webp",
+    "static/media/map.6a564b99.webp": "/static/media/map.6a564b99.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.61ab2b8c.js",
-    "static/js/2.720826cc.chunk.js",
-    "static/js/main.07691a28.chunk.js"
+    "static/js/2.c20db3a2.chunk.js",
+    "static/js/main.48a64aac.chunk.js"
   ]
 }
