@@ -18,6 +18,8 @@ const NavBrandingWrapper = styled.div`
 const NavBranding = styled(NavLink)`
 	text-decoration: none;
 	color: #000;
+	font-size: 2rem;
+	font-weight: 700;
 `;
 const NavbarLink = styled(NavLink)`
 	text-decoration: none;
